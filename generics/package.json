@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon dist/generics.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Typescript"],
+  "author": "Guilherme Gules Moreira",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^2.0.4",
     "typescript": "^3.8.3"
   }
 }
