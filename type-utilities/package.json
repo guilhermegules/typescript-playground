@@ -1,0 +1,17 @@
+{
+  "name": "type-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "start": "nodemon dist/type-utilities.js"
+  },
+  "keywords": ["Typescript"],
+  "author": "Guilherme Gules Moreira",
+  "license": "ISC"
+}
